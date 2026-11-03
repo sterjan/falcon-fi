@@ -1,8 +1,8 @@
 # Falcon.fi 🦅
-**The ultimate delta-neutral strategy aggregator**[cite: 5]
+**The ultimate delta-neutral strategy aggregator** 
 
-Built by: **Szymon Was, Jan Ster, Kacper Mlodzinski**[cite: 5]
-*March 29, 2026*[cite: 5]
+Built by: **Szymon Was, Jan Ster, Kacper Mlodzinski** 
+*March 29, 2026* 
 
 ## 🎯 Pitch Deck
 ![Slide 1 - Title](assets/pitch-deck/slide-01.png)
